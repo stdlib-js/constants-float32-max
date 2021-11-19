@@ -20,7 +20,7 @@ limitations under the License.
 
 # Max Value
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Maximum [single-precision floating-point number][ieee754].
 
@@ -82,8 +82,8 @@ console.log( FLOAT32_MAX );
 
 ## See Also
 
--   [`@stdlib/constants/float16/max`][@stdlib/constants/float16/max]: maximum half-precision floating-point number.
--   [`@stdlib/constants/float64/max`][@stdlib/constants/float64/max]: maximum double-precision floating-point number.
+-   <span class="package-name">[`@stdlib/constants/float16/max`][@stdlib/constants/float16/max]</span><span class="delimiter">: </span><span class="description">maximum half-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/max`][@stdlib/constants/float64/max]</span><span class="delimiter">: </span><span class="description">maximum double-precision floating-point number.</span>
 
 </section>
 
@@ -134,8 +134,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float32-max/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float32-max?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float32-max.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float32-max/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/

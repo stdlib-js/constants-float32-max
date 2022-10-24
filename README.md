@@ -166,7 +166,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-max/main/LICENSE
 
-[ieee754]: http://en.wikipedia.org/wiki/IEEE_754-1985
+[ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 <!-- <related-links> -->
 

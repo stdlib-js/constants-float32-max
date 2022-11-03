@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@esm/index.mjs';
+import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@v0.0.8-esm/index.mjs';
 ```
 
 #### FLOAT32_MAX
@@ -61,7 +61,7 @@ var bool = ( FLOAT32_MAX === 3.4028234663852886e+38 );
 <body>
 <script type="module">
 
-import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@esm/index.mjs';
+import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@v0.0.8-esm/index.mjs';
 
 console.log( FLOAT32_MAX );
 // => 3.4028234663852886e+38

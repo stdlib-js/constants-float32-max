@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@deno/mod.js';
+import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT32_MAX
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_MAX === 3.4028234663852886e+38 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@deno/mod.js';
+import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@v0.1.0-deno/mod.js';
 
 console.log( FLOAT32_MAX );
 // => 3.4028234663852886e+38

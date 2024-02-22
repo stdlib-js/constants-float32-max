@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-max/tags). For example,
+
+```javascript
 import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@v0.2.1-deno/mod.js';
 ```
 
@@ -67,7 +72,7 @@ var bool = ( FLOAT32_MAX === 3.4028234663852886e+38 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@v0.2.1-deno/mod.js';
+import FLOAT32_MAX from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max@deno/mod.js';
 
 console.log( FLOAT32_MAX );
 // => 3.4028234663852886e+38
